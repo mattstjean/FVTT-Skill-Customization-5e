@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [2.4.0] 2022-04-29
+
+- Add compatibility for Foundry v9 (MattStJean)
+
 ## [2.3.0] 2021-01-16
 
 ### CHANGED
