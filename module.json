@@ -6,8 +6,18 @@
     "dnd5e"
   ],
   "version": "2.4.0",
-  "author": "Cole Schultz (cole#9640)",
-  "contributors": ["Matt St Jean"],
+  "authors": [
+    {
+      "name": "Cole Schultz",
+      "url": "https://github.com/schultzcole",
+      "discord": "cole#9640"
+    },
+    {
+      "name": "Matt St Jean",
+      "url": "https://github.com/mattstjean",
+      "discord": "maatttt#9864"
+    }
+  ],
   "esmodules": [
     "skl-customization.js"
   ],
