@@ -16,6 +16,8 @@ Confirmed compatibility with Tidy5e Sheet, Alt5e Sheet, and Better Rolls for 5e.
 
 Makes use of libWrapper to reduce likelihood of conflicts. Installing libWrapper is not required to make use of this module.
 
+Updated to be compatible with Foundry v9.
+
 ## License
 
 Licensed under the GPLv3 License (see [LICENSE](LICENSE)).
